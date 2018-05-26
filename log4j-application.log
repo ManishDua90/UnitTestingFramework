@@ -1,0 +1,564 @@
+2018-05-26 13:02:19 INFO  Add:13 - Started testing Add method
+2018-05-26 13:02:19 INFO  Add:17 - Finished testing Add method
+2018-05-26 13:03:52 INFO  Add:13 - Started testing Add method
+2018-05-26 13:03:52 INFO  Add:17 - Finished testing Add method
+2018-05-26 13:04:59 INFO  AnnotationsTest:49 - Before Suite
+2018-05-26 13:04:59 INFO  AnnotationsTest:25 - Before Test
+2018-05-26 13:04:59 INFO  Add:12 - Started testing Add method
+2018-05-26 13:04:59 INFO  Add:16 - Finished testing Add method
+2018-05-26 13:04:59 INFO  Multiply:13 - Started testing multiply method
+2018-05-26 13:04:59 INFO  Multiply:17 - Finished testing multiply method
+2018-05-26 13:04:59 INFO  Subtract:14 - Started testing subtract method
+2018-05-26 13:04:59 INFO  Subtract:18 - Finished testing subtract method
+2018-05-26 13:04:59 INFO  AnnotationsTest:13 - In Test1
+2018-05-26 13:04:59 INFO  AnnotationsTest:19 - In Test2
+2018-05-26 13:04:59 INFO  AnnotationsTest:43 - After Class
+2018-05-26 13:04:59 INFO  AnnotationsTest:31 - After Test
+2018-05-26 13:04:59 INFO  AnnotationsTest:55 - After Suite
+2018-05-26 13:07:28 INFO  AnnotationsTest:49 - Before Suite
+2018-05-26 13:07:28 INFO  AnnotationsTest:25 - Before Test
+2018-05-26 13:07:28 INFO  Add:12 - Started testing Add method
+2018-05-26 13:07:28 INFO  Add:16 - Finished testing Add method
+2018-05-26 13:07:28 INFO  Multiply:13 - Started testing multiply method
+2018-05-26 13:07:28 INFO  Multiply:17 - Finished testing multiply method
+2018-05-26 13:07:28 INFO  Subtract:14 - Started testing subtract method
+2018-05-26 13:07:28 INFO  Subtract:18 - Finished testing subtract method
+2018-05-26 13:07:28 INFO  AnnotationsTest:13 - In Test1
+2018-05-26 13:07:28 INFO  AnnotationsTest:19 - In Test2
+2018-05-26 13:07:28 INFO  AnnotationsTest:43 - After Class
+2018-05-26 13:07:28 INFO  AnnotationsTest:31 - After Test
+2018-05-26 13:07:28 INFO  AnnotationsTest:55 - After Suite
+2018-05-26 13:09:17 INFO  AnnotationsTest:49 - Before Suite
+2018-05-26 13:09:17 INFO  AnnotationsTest:25 - Before Test
+2018-05-26 13:09:17 INFO  AnnotationsTest:13 - In Test1
+2018-05-26 13:09:17 INFO  AnnotationsTest:19 - In Test2
+2018-05-26 13:09:17 INFO  AnnotationsTest:43 - After Class
+2018-05-26 13:09:17 INFO  AnnotationsTest:31 - After Test
+2018-05-26 13:09:17 INFO  AnnotationsTest:55 - After Suite
+2018-05-26 13:11:58 INFO  AnnotationsTest:49 - Before Suite
+2018-05-26 13:11:58 INFO  AnnotationsTest:25 - Before Test
+2018-05-26 13:11:58 INFO  Add:12 - Started testing Add method
+2018-05-26 13:11:58 INFO  Add:16 - Finished testing Add method
+2018-05-26 13:11:58 INFO  Multiply:13 - Started testing multiply method
+2018-05-26 13:11:58 INFO  Multiply:17 - Finished testing multiply method
+2018-05-26 13:11:58 INFO  Subtract:14 - Started testing subtract method
+2018-05-26 13:11:58 INFO  Subtract:18 - Finished testing subtract method
+2018-05-26 13:11:58 INFO  AnnotationsTest:74 - Before Method
+2018-05-26 13:11:58 INFO  AnnotationsTest:13 - In Test1
+2018-05-26 13:11:58 INFO  AnnotationsTest:80 - After Method
+2018-05-26 13:11:58 INFO  AnnotationsTest:74 - Before Method
+2018-05-26 13:11:58 INFO  AnnotationsTest:19 - In Test2
+2018-05-26 13:11:58 INFO  AnnotationsTest:80 - After Method
+2018-05-26 13:11:58 INFO  AnnotationsTest:43 - After Class
+2018-05-26 13:11:58 INFO  AnnotationsTest:31 - After Test
+2018-05-26 13:11:58 INFO  AnnotationsTest:55 - After Suite
+2018-05-26 13:21:25 INFO  GroupingTests:12 - In Test1 Group1
+2018-05-26 13:21:25 INFO  GroupingTests:18 - In Test2 Group1
+2018-05-26 13:21:50 INFO  GroupingTests:12 - In Test1 Group1
+2018-05-26 13:21:50 INFO  GroupingTests:25 - In Test1 Group2
+2018-05-26 13:21:50 INFO  GroupingTests:18 - In Test2 Group1
+2018-05-26 13:21:50 INFO  GroupingTests:31 - In Test2 Group2
+2018-05-26 13:22:55 INFO  GroupingTests:12 - In Test1 Group1
+2018-05-26 13:22:55 INFO  GroupingTests:25 - In Test1 Group2
+2018-05-26 13:22:55 INFO  GroupingTests:18 - In Test2 Group1
+2018-05-26 13:22:55 INFO  GroupingTests:31 - In Test2 Group2
+2018-05-26 13:23:45 INFO  AnnotationsTest:49 - Before Suite
+2018-05-26 13:23:45 INFO  AnnotationsTest:25 - Before Test
+2018-05-26 13:23:45 INFO  Add:12 - Started testing Add method
+2018-05-26 13:23:45 INFO  Add:16 - Finished testing Add method
+2018-05-26 13:23:45 INFO  Multiply:13 - Started testing multiply method
+2018-05-26 13:23:45 INFO  Multiply:17 - Finished testing multiply method
+2018-05-26 13:23:45 INFO  Subtract:14 - Started testing subtract method
+2018-05-26 13:23:45 INFO  Subtract:18 - Finished testing subtract method
+2018-05-26 13:23:45 INFO  AnnotationsTest:74 - Before Method
+2018-05-26 13:23:45 INFO  AnnotationsTest:13 - In Test1
+2018-05-26 13:23:45 INFO  AnnotationsTest:80 - After Method
+2018-05-26 13:23:45 INFO  AnnotationsTest:74 - Before Method
+2018-05-26 13:23:45 INFO  AnnotationsTest:19 - In Test2
+2018-05-26 13:23:45 INFO  AnnotationsTest:80 - After Method
+2018-05-26 13:23:45 INFO  AnnotationsTest:43 - After Class
+2018-05-26 13:23:45 INFO  GroupingTests:12 - In Test1 Group1
+2018-05-26 13:23:45 INFO  GroupingTests:25 - In Test1 Group2
+2018-05-26 13:23:45 INFO  GroupingTests:18 - In Test2 Group1
+2018-05-26 13:23:45 INFO  GroupingTests:31 - In Test2 Group2
+2018-05-26 13:23:45 INFO  AnnotationsTest:31 - After Test
+2018-05-26 13:23:45 INFO  AnnotationsTest:55 - After Suite
+2018-05-26 13:27:17 INFO  AnnotationsTest:49 - Before Suite
+2018-05-26 13:27:17 INFO  AnnotationsTest:25 - Before Test
+2018-05-26 13:27:17 INFO  Add:12 - Started testing Add method
+2018-05-26 13:27:17 INFO  Add:16 - Finished testing Add method
+2018-05-26 13:27:17 INFO  Multiply:13 - Started testing multiply method
+2018-05-26 13:27:17 INFO  Multiply:17 - Finished testing multiply method
+2018-05-26 13:27:17 INFO  Subtract:14 - Started testing subtract method
+2018-05-26 13:27:17 INFO  Subtract:18 - Finished testing subtract method
+2018-05-26 13:27:17 INFO  AnnotationsTest:74 - Before Method
+2018-05-26 13:27:17 INFO  AnnotationsTest:13 - In Test1
+2018-05-26 13:27:17 INFO  AnnotationsTest:80 - After Method
+2018-05-26 13:27:17 INFO  AnnotationsTest:74 - Before Method
+2018-05-26 13:27:17 INFO  AnnotationsTest:19 - In Test2
+2018-05-26 13:27:17 INFO  AnnotationsTest:80 - After Method
+2018-05-26 13:27:17 INFO  AnnotationsTest:43 - After Class
+2018-05-26 13:27:17 INFO  GroupingTests:12 - In Test1 Group1
+2018-05-26 13:27:17 INFO  GroupingTests:25 - In Test1 Group2
+2018-05-26 13:27:17 INFO  GroupingTests:18 - In Test2 Group1
+2018-05-26 13:27:17 INFO  GroupingTests:31 - In Test2 Group2
+2018-05-26 13:27:17 INFO  DependentTest:20 - Login
+2018-05-26 13:27:17 INFO  DependentTest:13 - This method depends on method LOGIN
+2018-05-26 13:27:17 INFO  DependentTest:14 - Logout
+2018-05-26 13:27:17 INFO  AnnotationsTest:31 - After Test
+2018-05-26 13:27:17 INFO  AnnotationsTest:55 - After Suite
+2018-05-26 13:30:46 INFO  AnnotationsTest:49 - Before Suite
+2018-05-26 13:30:46 INFO  AnnotationsTest:25 - Before Test
+2018-05-26 13:30:46 INFO  Add:12 - Started testing Add method
+2018-05-26 13:30:46 INFO  Add:16 - Finished testing Add method
+2018-05-26 13:30:46 INFO  Multiply:13 - Started testing multiply method
+2018-05-26 13:30:46 INFO  Multiply:17 - Finished testing multiply method
+2018-05-26 13:30:46 INFO  Subtract:14 - Started testing subtract method
+2018-05-26 13:30:46 INFO  Subtract:18 - Finished testing subtract method
+2018-05-26 13:30:46 INFO  AnnotationsTest:74 - Before Method
+2018-05-26 13:30:46 INFO  AnnotationsTest:13 - In Test1
+2018-05-26 13:30:46 INFO  AnnotationsTest:80 - After Method
+2018-05-26 13:30:46 INFO  AnnotationsTest:74 - Before Method
+2018-05-26 13:30:46 INFO  AnnotationsTest:19 - In Test2
+2018-05-26 13:30:46 INFO  AnnotationsTest:80 - After Method
+2018-05-26 13:30:46 INFO  AnnotationsTest:43 - After Class
+2018-05-26 13:30:46 INFO  GroupingTests:12 - In Test1 Group1
+2018-05-26 13:30:46 INFO  GroupingTests:25 - In Test1 Group2
+2018-05-26 13:30:47 INFO  GroupingTests:18 - In Test2 Group1
+2018-05-26 13:30:47 INFO  GroupingTests:31 - In Test2 Group2
+2018-05-26 13:30:47 INFO  DependentTest:20 - Login
+2018-05-26 13:30:47 INFO  PriorityAndSequencingTests:16 - test2 with priority 0
+2018-05-26 13:30:47 INFO  DependentTest:13 - This method depends on method LOGIN
+2018-05-26 13:30:47 INFO  DependentTest:14 - Logout
+2018-05-26 13:30:47 INFO  PriorityAndSequencingTests:11 - test1 with priority 8
+2018-05-26 13:30:47 INFO  AnnotationsTest:31 - After Test
+2018-05-26 13:30:47 INFO  AnnotationsTest:55 - After Suite
+2018-05-26 13:31:10 INFO  AnnotationsTest:49 - Before Suite
+2018-05-26 13:31:10 INFO  AnnotationsTest:25 - Before Test
+2018-05-26 13:31:10 INFO  Add:12 - Started testing Add method
+2018-05-26 13:31:10 INFO  Add:16 - Finished testing Add method
+2018-05-26 13:31:10 INFO  Multiply:13 - Started testing multiply method
+2018-05-26 13:31:10 INFO  Multiply:17 - Finished testing multiply method
+2018-05-26 13:31:10 INFO  Subtract:14 - Started testing subtract method
+2018-05-26 13:31:10 INFO  Subtract:18 - Finished testing subtract method
+2018-05-26 13:31:10 INFO  AnnotationsTest:74 - Before Method
+2018-05-26 13:31:10 INFO  AnnotationsTest:13 - In Test1
+2018-05-26 13:31:10 INFO  AnnotationsTest:80 - After Method
+2018-05-26 13:31:10 INFO  AnnotationsTest:74 - Before Method
+2018-05-26 13:31:10 INFO  AnnotationsTest:19 - In Test2
+2018-05-26 13:31:10 INFO  AnnotationsTest:80 - After Method
+2018-05-26 13:31:10 INFO  AnnotationsTest:43 - After Class
+2018-05-26 13:31:10 INFO  GroupingTests:12 - In Test1 Group1
+2018-05-26 13:31:10 INFO  GroupingTests:25 - In Test1 Group2
+2018-05-26 13:31:10 INFO  GroupingTests:18 - In Test2 Group1
+2018-05-26 13:31:10 INFO  GroupingTests:31 - In Test2 Group2
+2018-05-26 13:31:10 INFO  DependentTest:20 - Login
+2018-05-26 13:31:10 INFO  DependentTest:13 - This method depends on method LOGIN
+2018-05-26 13:31:10 INFO  DependentTest:14 - Logout
+2018-05-26 13:31:10 INFO  PriorityAndSequencingTests:16 - test2 with priority 1
+2018-05-26 13:31:10 INFO  PriorityAndSequencingTests:11 - test1 with priority 8
+2018-05-26 13:31:10 INFO  AnnotationsTest:31 - After Test
+2018-05-26 13:31:10 INFO  AnnotationsTest:55 - After Suite
+2018-05-26 13:34:25 INFO  AnnotationsTest:51 - Before Suite
+2018-05-26 13:34:25 INFO  AnnotationsTest:26 - Before Test
+2018-05-26 13:34:25 INFO  Add:12 - Started testing Add method
+2018-05-26 13:34:25 INFO  Add:16 - Finished testing Add method
+2018-05-26 13:34:25 INFO  Multiply:13 - Started testing multiply method
+2018-05-26 13:34:25 INFO  Multiply:17 - Finished testing multiply method
+2018-05-26 13:34:25 INFO  Subtract:14 - Started testing subtract method
+2018-05-26 13:34:25 INFO  Subtract:18 - Finished testing subtract method
+2018-05-26 13:34:25 INFO  AnnotationsTest:77 - Before Method
+2018-05-26 13:34:25 INFO  AnnotationsTest:14 - In Test1
+2018-05-26 13:34:25 INFO  AnnotationsTest:83 - After Method
+2018-05-26 13:34:25 INFO  AnnotationsTest:77 - Before Method
+2018-05-26 13:34:25 INFO  AnnotationsTest:20 - In Test2
+2018-05-26 13:34:25 INFO  AnnotationsTest:83 - After Method
+2018-05-26 13:34:25 INFO  AnnotationsTest:44 - After Class
+2018-05-26 13:34:25 INFO  GroupingTests:12 - In Test1 Group1
+2018-05-26 13:34:25 INFO  GroupingTests:25 - In Test1 Group2
+2018-05-26 13:34:25 INFO  GroupingTests:18 - In Test2 Group1
+2018-05-26 13:34:25 INFO  GroupingTests:31 - In Test2 Group2
+2018-05-26 13:34:25 INFO  DependentTest:20 - Login
+2018-05-26 13:34:25 INFO  DependentTest:13 - This method depends on method LOGIN
+2018-05-26 13:34:25 INFO  DependentTest:14 - Logout
+2018-05-26 13:34:25 INFO  PriorityAndSequencingTests:16 - test2 with priority 1
+2018-05-26 13:34:25 INFO  PriorityAndSequencingTests:11 - test1 with priority 8
+2018-05-26 13:34:25 INFO  AnnotationsTest:32 - After Test
+2018-05-26 13:34:25 INFO  AnnotationsTest:58 - After Suite
+2018-05-26 15:22:10 INFO  AnnotationsTest:51 - Before Suite
+2018-05-26 15:22:10 INFO  AnnotationsTest:26 - Before Test
+2018-05-26 15:22:10 INFO  Add:12 - Started testing Add method
+2018-05-26 15:22:10 INFO  Add:16 - Finished testing Add method
+2018-05-26 15:22:10 INFO  Multiply:13 - Started testing multiply method
+2018-05-26 15:22:10 INFO  Multiply:17 - Finished testing multiply method
+2018-05-26 15:22:10 INFO  Subtract:14 - Started testing subtract method
+2018-05-26 15:22:10 INFO  Subtract:18 - Finished testing subtract method
+2018-05-26 15:22:10 INFO  AnnotationsTest:77 - Before Method
+2018-05-26 15:22:10 INFO  AnnotationsTest:14 - In Test1
+2018-05-26 15:22:10 INFO  AnnotationsTest:83 - After Method
+2018-05-26 15:22:10 INFO  AnnotationsTest:77 - Before Method
+2018-05-26 15:22:10 INFO  AnnotationsTest:20 - In Test2
+2018-05-26 15:22:10 INFO  AnnotationsTest:83 - After Method
+2018-05-26 15:22:10 INFO  AnnotationsTest:44 - After Class
+2018-05-26 15:22:10 INFO  GroupingTests:12 - In Test1 Group1
+2018-05-26 15:22:10 INFO  GroupingTests:25 - In Test1 Group2
+2018-05-26 15:22:10 INFO  GroupingTests:18 - In Test2 Group1
+2018-05-26 15:22:10 INFO  GroupingTests:31 - In Test2 Group2
+2018-05-26 15:22:10 INFO  DependentTest:20 - Login
+2018-05-26 15:22:10 INFO  DependentTest:13 - This method depends on method LOGIN
+2018-05-26 15:22:10 INFO  DependentTest:14 - Logout
+2018-05-26 15:22:10 INFO  PriorityAndSequencingTests:16 - test2 with priority 1
+2018-05-26 15:22:10 INFO  PriorityAndSequencingTests:11 - test1 with priority 8
+2018-05-26 15:22:10 INFO  AnnotationsTest:32 - After Test
+2018-05-26 15:22:10 INFO  AnnotationsTest:58 - After Suite
+2018-05-26 15:35:20 INFO  AnnotationsTest:51 - Before Suite
+2018-05-26 15:35:21 INFO  AnnotationsTest:26 - Before Test
+2018-05-26 15:35:21 INFO  Add:12 - Started testing Add method
+2018-05-26 15:35:21 INFO  Add:16 - Finished testing Add method
+2018-05-26 15:35:21 INFO  Multiply:13 - Started testing multiply method
+2018-05-26 15:35:21 INFO  Multiply:17 - Finished testing multiply method
+2018-05-26 15:35:21 INFO  Subtract:14 - Started testing subtract method
+2018-05-26 15:35:21 INFO  Subtract:18 - Finished testing subtract method
+2018-05-26 15:35:21 INFO  AnnotationsTest:77 - Before Method
+2018-05-26 15:35:21 INFO  AnnotationsTest:14 - In Test1
+2018-05-26 15:35:21 INFO  AnnotationsTest:83 - After Method
+2018-05-26 15:35:21 INFO  AnnotationsTest:77 - Before Method
+2018-05-26 15:35:21 INFO  AnnotationsTest:20 - In Test2
+2018-05-26 15:35:21 INFO  AnnotationsTest:83 - After Method
+2018-05-26 15:35:21 INFO  AnnotationsTest:44 - After Class
+2018-05-26 15:35:21 INFO  GroupingTests:12 - In Test1 Group1
+2018-05-26 15:35:21 INFO  GroupingTests:25 - In Test1 Group2
+2018-05-26 15:35:21 INFO  GroupingTests:18 - In Test2 Group1
+2018-05-26 15:35:21 INFO  GroupingTests:31 - In Test2 Group2
+2018-05-26 15:35:21 INFO  DependentTest:20 - Login
+2018-05-26 15:35:21 INFO  DependentTest:13 - This method depends on method LOGIN
+2018-05-26 15:35:21 INFO  DependentTest:14 - Logout
+2018-05-26 15:35:21 INFO  PriorityAndSequencingTests:16 - test2 with priority 1
+2018-05-26 15:35:21 INFO  PriorityAndSequencingTests:11 - test1 with priority 8
+2018-05-26 15:35:21 INFO  AnnotationsTest:32 - After Test
+2018-05-26 15:35:21 INFO  AnnotationsTest:58 - After Suite
+2018-05-26 15:36:36 INFO  AnnotationsTest:51 - Before Suite
+2018-05-26 15:36:36 INFO  AnnotationsTest:26 - Before Test
+2018-05-26 15:36:36 INFO  Add:12 - Started testing Add method
+2018-05-26 15:36:36 INFO  Add:16 - Finished testing Add method
+2018-05-26 15:36:36 INFO  Multiply:13 - Started testing multiply method
+2018-05-26 15:36:36 INFO  Multiply:17 - Finished testing multiply method
+2018-05-26 15:36:36 INFO  Subtract:14 - Started testing subtract method
+2018-05-26 15:36:36 INFO  Subtract:18 - Finished testing subtract method
+2018-05-26 15:36:36 INFO  AnnotationsTest:77 - Before Method
+2018-05-26 15:36:36 INFO  AnnotationsTest:14 - In Test1
+2018-05-26 15:36:36 INFO  AnnotationsTest:83 - After Method
+2018-05-26 15:36:36 INFO  AnnotationsTest:77 - Before Method
+2018-05-26 15:36:36 INFO  AnnotationsTest:20 - In Test2
+2018-05-26 15:36:36 INFO  AnnotationsTest:83 - After Method
+2018-05-26 15:36:36 INFO  AnnotationsTest:44 - After Class
+2018-05-26 15:36:36 INFO  GroupingTests:12 - In Test1 Group1
+2018-05-26 15:36:36 INFO  GroupingTests:25 - In Test1 Group2
+2018-05-26 15:36:36 INFO  GroupingTests:18 - In Test2 Group1
+2018-05-26 15:36:36 INFO  GroupingTests:31 - In Test2 Group2
+2018-05-26 15:36:36 INFO  DependentTest:20 - Login
+2018-05-26 15:36:36 INFO  DependentTest:13 - This method depends on method LOGIN
+2018-05-26 15:36:36 INFO  DependentTest:14 - Logout
+2018-05-26 15:36:36 INFO  PriorityAndSequencingTests:16 - test2 with priority 1
+2018-05-26 15:36:36 INFO  PriorityAndSequencingTests:11 - test1 with priority 8
+2018-05-26 15:36:36 INFO  AnnotationsTest:32 - After Test
+2018-05-26 15:36:36 INFO  ParameterTest:13 - Login Successful
+2018-05-26 15:36:36 INFO  AnnotationsTest:58 - After Suite
+2018-05-26 15:44:18 INFO  AnnotationsTest:51 - Before Suite
+2018-05-26 15:44:19 INFO  AnnotationsTest:26 - Before Test
+2018-05-26 15:44:19 INFO  Add:12 - Started testing Add method
+2018-05-26 15:44:19 INFO  Add:16 - Finished testing Add method
+2018-05-26 15:44:19 INFO  Multiply:13 - Started testing multiply method
+2018-05-26 15:44:19 INFO  Multiply:17 - Finished testing multiply method
+2018-05-26 15:44:19 INFO  Subtract:14 - Started testing subtract method
+2018-05-26 15:44:19 INFO  Subtract:18 - Finished testing subtract method
+2018-05-26 15:44:19 INFO  AnnotationsTest:77 - Before Method
+2018-05-26 15:44:19 INFO  AnnotationsTest:14 - In Test1
+2018-05-26 15:44:19 INFO  AnnotationsTest:83 - After Method
+2018-05-26 15:44:19 INFO  AnnotationsTest:77 - Before Method
+2018-05-26 15:44:19 INFO  AnnotationsTest:20 - In Test2
+2018-05-26 15:44:19 INFO  AnnotationsTest:83 - After Method
+2018-05-26 15:44:19 INFO  AnnotationsTest:44 - After Class
+2018-05-26 15:44:19 INFO  GroupingTests:12 - In Test1 Group1
+2018-05-26 15:44:19 INFO  GroupingTests:25 - In Test1 Group2
+2018-05-26 15:44:19 INFO  GroupingTests:18 - In Test2 Group1
+2018-05-26 15:44:19 INFO  GroupingTests:31 - In Test2 Group2
+2018-05-26 15:44:19 INFO  DependentTest:20 - Login
+2018-05-26 15:44:19 INFO  DependentTest:13 - This method depends on method LOGIN
+2018-05-26 15:44:19 INFO  DependentTest:14 - Logout
+2018-05-26 15:44:19 INFO  PriorityAndSequencingTests:16 - test2 with priority 1
+2018-05-26 15:44:19 INFO  PriorityAndSequencingTests:11 - test1 with priority 8
+2018-05-26 15:44:19 INFO  AnnotationsTest:32 - After Test
+2018-05-26 15:44:19 INFO  ParameterTest:13 - Login Successful
+2018-05-26 15:44:19 INFO  DataProviderTest:23 - Login Successful
+2018-05-26 15:44:19 INFO  DataProviderTest:23 - Login Successful
+2018-05-26 15:44:19 INFO  AnnotationsTest:58 - After Suite
+2018-05-26 16:08:43 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-26 16:08:43 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-26 16:18:48 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-26 16:18:48 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-26 16:18:48 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-26 16:18:48 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-26 16:18:48 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-26 16:19:13 INFO  AnnotationsTest:51 - Before Suite
+2018-05-26 16:19:14 INFO  AnnotationsTest:26 - Before Test
+2018-05-26 16:19:14 INFO  Add:12 - Started testing Add method
+2018-05-26 16:19:14 INFO  Add:16 - Finished testing Add method
+2018-05-26 16:19:14 INFO  Multiply:13 - Started testing multiply method
+2018-05-26 16:19:14 INFO  Multiply:17 - Finished testing multiply method
+2018-05-26 16:19:14 INFO  Subtract:14 - Started testing subtract method
+2018-05-26 16:19:14 INFO  Subtract:18 - Finished testing subtract method
+2018-05-26 16:19:14 INFO  AnnotationsTest:77 - Before Method
+2018-05-26 16:19:14 INFO  AnnotationsTest:14 - In Test1
+2018-05-26 16:19:14 INFO  AnnotationsTest:83 - After Method
+2018-05-26 16:19:14 INFO  AnnotationsTest:77 - Before Method
+2018-05-26 16:19:14 INFO  AnnotationsTest:20 - In Test2
+2018-05-26 16:19:14 INFO  AnnotationsTest:83 - After Method
+2018-05-26 16:19:14 INFO  AnnotationsTest:44 - After Class
+2018-05-26 16:19:14 INFO  GroupingTests:12 - In Test1 Group1
+2018-05-26 16:19:14 INFO  GroupingTests:25 - In Test1 Group2
+2018-05-26 16:19:14 INFO  GroupingTests:18 - In Test2 Group1
+2018-05-26 16:19:14 INFO  GroupingTests:31 - In Test2 Group2
+2018-05-26 16:19:14 INFO  DependentTest:20 - Login
+2018-05-26 16:19:14 INFO  DependentTest:13 - This method depends on method LOGIN
+2018-05-26 16:19:14 INFO  DependentTest:14 - Logout
+2018-05-26 16:19:14 INFO  PriorityAndSequencingTests:16 - test2 with priority 1
+2018-05-26 16:19:14 INFO  PriorityAndSequencingTests:11 - test1 with priority 8
+2018-05-26 16:19:14 INFO  AnnotationsTest:32 - After Test
+2018-05-26 16:19:14 INFO  ParameterTest:13 - Login Successful
+2018-05-26 16:19:14 INFO  DataProviderTest:23 - Login Successful
+2018-05-26 16:19:14 INFO  DataProviderTest:23 - Login Successful
+2018-05-26 16:19:14 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-26 16:19:14 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-26 16:19:14 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-26 16:19:14 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-26 16:19:14 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-26 16:19:14 INFO  AnnotationsTest:58 - After Suite
+2018-05-26 16:21:06 INFO  AnnotationsTest:51 - Before Suite
+2018-05-26 16:21:06 INFO  AnnotationsTest:26 - Before Test
+2018-05-26 16:21:06 INFO  Add:12 - Started testing Add method
+2018-05-26 16:21:06 INFO  Add:16 - Finished testing Add method
+2018-05-26 16:21:06 INFO  Multiply:13 - Started testing multiply method
+2018-05-26 16:21:06 INFO  Multiply:17 - Finished testing multiply method
+2018-05-26 16:21:06 INFO  Subtract:14 - Started testing subtract method
+2018-05-26 16:21:06 INFO  Subtract:18 - Finished testing subtract method
+2018-05-26 16:21:06 INFO  AnnotationsTest:77 - Before Method
+2018-05-26 16:21:06 INFO  AnnotationsTest:14 - In Test1
+2018-05-26 16:21:06 INFO  AnnotationsTest:83 - After Method
+2018-05-26 16:21:06 INFO  AnnotationsTest:77 - Before Method
+2018-05-26 16:21:06 INFO  AnnotationsTest:20 - In Test2
+2018-05-26 16:21:06 INFO  AnnotationsTest:83 - After Method
+2018-05-26 16:21:06 INFO  AnnotationsTest:44 - After Class
+2018-05-26 16:21:06 INFO  GroupingTests:12 - In Test1 Group1
+2018-05-26 16:21:06 INFO  GroupingTests:25 - In Test1 Group2
+2018-05-26 16:21:06 INFO  GroupingTests:18 - In Test2 Group1
+2018-05-26 16:21:06 INFO  GroupingTests:31 - In Test2 Group2
+2018-05-26 16:21:06 INFO  DependentTest:20 - Login
+2018-05-26 16:21:06 INFO  DependentTest:13 - This method depends on method LOGIN
+2018-05-26 16:21:06 INFO  DependentTest:14 - Logout
+2018-05-26 16:21:06 INFO  PriorityAndSequencingTests:16 - test2 with priority 1
+2018-05-26 16:21:06 INFO  PriorityAndSequencingTests:11 - test1 with priority 8
+2018-05-26 16:21:06 INFO  AnnotationsTest:32 - After Test
+2018-05-26 16:21:06 INFO  ParameterTest:13 - Login Successful
+2018-05-26 16:21:06 INFO  DataProviderTest:23 - Login Successful
+2018-05-26 16:21:06 INFO  DataProviderTest:23 - Login Successful
+2018-05-26 16:21:07 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-26 16:21:07 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-26 16:21:07 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-26 16:21:07 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-26 16:21:07 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-26 16:21:07 INFO  AnnotationsTest:58 - After Suite
+2018-05-26 16:22:42 INFO  AnnotationsTest:51 - Before Suite
+2018-05-26 16:22:42 INFO  AnnotationsTest:26 - Before Test
+2018-05-26 16:22:42 INFO  Add:12 - Started testing Add method
+2018-05-26 16:22:42 INFO  Add:16 - Finished testing Add method
+2018-05-26 16:22:42 INFO  Multiply:13 - Started testing multiply method
+2018-05-26 16:22:42 INFO  Multiply:17 - Finished testing multiply method
+2018-05-26 16:22:42 INFO  Subtract:14 - Started testing subtract method
+2018-05-26 16:22:42 INFO  Subtract:18 - Finished testing subtract method
+2018-05-26 16:22:42 INFO  AnnotationsTest:77 - Before Method
+2018-05-26 16:22:42 INFO  AnnotationsTest:14 - In Test1
+2018-05-26 16:22:42 INFO  AnnotationsTest:83 - After Method
+2018-05-26 16:22:42 INFO  AnnotationsTest:77 - Before Method
+2018-05-26 16:22:42 INFO  AnnotationsTest:20 - In Test2
+2018-05-26 16:22:42 INFO  AnnotationsTest:83 - After Method
+2018-05-26 16:22:42 INFO  AnnotationsTest:44 - After Class
+2018-05-26 16:22:42 INFO  GroupingTests:12 - In Test1 Group1
+2018-05-26 16:22:42 INFO  GroupingTests:25 - In Test1 Group2
+2018-05-26 16:22:42 INFO  GroupingTests:18 - In Test2 Group1
+2018-05-26 16:22:42 INFO  GroupingTests:31 - In Test2 Group2
+2018-05-26 16:22:42 INFO  DependentTest:20 - Login
+2018-05-26 16:22:42 INFO  DependentTest:13 - This method depends on method LOGIN
+2018-05-26 16:22:42 INFO  DependentTest:14 - Logout
+2018-05-26 16:22:42 INFO  PriorityAndSequencingTests:16 - test2 with priority 1
+2018-05-26 16:22:42 INFO  PriorityAndSequencingTests:11 - test1 with priority 8
+2018-05-26 16:22:42 INFO  AnnotationsTest:32 - After Test
+2018-05-26 16:22:42 INFO  ParameterTest:13 - Login Successful
+2018-05-26 16:22:42 INFO  DataProviderTest:23 - Login Successful
+2018-05-26 16:22:42 INFO  DataProviderTest:23 - Login Successful
+2018-05-26 16:22:42 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-26 16:22:42 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-26 16:22:42 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-26 16:22:42 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-26 16:22:42 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-26 16:22:42 INFO  AnnotationsTest:58 - After Suite
+2018-05-26 16:23:25 INFO  AnnotationsTest:51 - Before Suite
+2018-05-26 16:23:25 INFO  AnnotationsTest:26 - Before Test
+2018-05-26 16:23:25 INFO  Add:12 - Started testing Add method
+2018-05-26 16:23:25 INFO  Add:16 - Finished testing Add method
+2018-05-26 16:23:25 INFO  Multiply:13 - Started testing multiply method
+2018-05-26 16:23:25 INFO  Multiply:17 - Finished testing multiply method
+2018-05-26 16:23:25 INFO  Subtract:14 - Started testing subtract method
+2018-05-26 16:23:25 INFO  Subtract:18 - Finished testing subtract method
+2018-05-26 16:23:25 INFO  AnnotationsTest:77 - Before Method
+2018-05-26 16:23:25 INFO  AnnotationsTest:14 - In Test1
+2018-05-26 16:23:25 INFO  AnnotationsTest:83 - After Method
+2018-05-26 16:23:25 INFO  AnnotationsTest:77 - Before Method
+2018-05-26 16:23:25 INFO  AnnotationsTest:20 - In Test2
+2018-05-26 16:23:25 INFO  AnnotationsTest:83 - After Method
+2018-05-26 16:23:25 INFO  AnnotationsTest:44 - After Class
+2018-05-26 16:23:25 INFO  GroupingTests:12 - In Test1 Group1
+2018-05-26 16:23:25 INFO  GroupingTests:25 - In Test1 Group2
+2018-05-26 16:23:25 INFO  GroupingTests:18 - In Test2 Group1
+2018-05-26 16:23:25 INFO  GroupingTests:31 - In Test2 Group2
+2018-05-26 16:23:25 INFO  DependentTest:20 - Login
+2018-05-26 16:23:25 INFO  DependentTest:13 - This method depends on method LOGIN
+2018-05-26 16:23:25 INFO  DependentTest:14 - Logout
+2018-05-26 16:23:25 INFO  PriorityAndSequencingTests:16 - test2 with priority 1
+2018-05-26 16:23:25 INFO  PriorityAndSequencingTests:11 - test1 with priority 8
+2018-05-26 16:23:25 INFO  AnnotationsTest:32 - After Test
+2018-05-26 16:23:25 INFO  ParameterTest:13 - Login Successful
+2018-05-26 16:23:25 INFO  DataProviderTest:23 - Login Successful
+2018-05-26 16:23:25 INFO  DataProviderTest:23 - Login Successful
+2018-05-26 16:23:26 INFO  AnnotationsTest:58 - After Suite
+2018-05-26 16:24:20 INFO  AnnotationsTest:51 - Before Suite
+2018-05-26 16:24:20 INFO  AnnotationsTest:26 - Before Test
+2018-05-26 16:24:20 INFO  Add:12 - Started testing Add method
+2018-05-26 16:24:20 INFO  Add:16 - Finished testing Add method
+2018-05-26 16:24:20 INFO  Multiply:13 - Started testing multiply method
+2018-05-26 16:24:20 INFO  Multiply:17 - Finished testing multiply method
+2018-05-26 16:24:20 INFO  Subtract:14 - Started testing subtract method
+2018-05-26 16:24:20 INFO  Subtract:18 - Finished testing subtract method
+2018-05-26 16:24:20 INFO  AnnotationsTest:77 - Before Method
+2018-05-26 16:24:20 INFO  AnnotationsTest:14 - In Test1
+2018-05-26 16:24:20 INFO  AnnotationsTest:83 - After Method
+2018-05-26 16:24:20 INFO  AnnotationsTest:77 - Before Method
+2018-05-26 16:24:20 INFO  AnnotationsTest:20 - In Test2
+2018-05-26 16:24:20 INFO  AnnotationsTest:83 - After Method
+2018-05-26 16:24:20 INFO  AnnotationsTest:44 - After Class
+2018-05-26 16:24:20 INFO  GroupingTests:12 - In Test1 Group1
+2018-05-26 16:24:20 INFO  GroupingTests:25 - In Test1 Group2
+2018-05-26 16:24:20 INFO  GroupingTests:18 - In Test2 Group1
+2018-05-26 16:24:20 INFO  GroupingTests:31 - In Test2 Group2
+2018-05-26 16:24:20 INFO  DependentTest:20 - Login
+2018-05-26 16:24:20 INFO  DependentTest:13 - This method depends on method LOGIN
+2018-05-26 16:24:20 INFO  DependentTest:14 - Logout
+2018-05-26 16:24:20 INFO  PriorityAndSequencingTests:16 - test2 with priority 1
+2018-05-26 16:24:20 INFO  PriorityAndSequencingTests:11 - test1 with priority 8
+2018-05-26 16:24:20 INFO  AnnotationsTest:32 - After Test
+2018-05-26 16:24:20 INFO  ParameterTest:13 - Login Successful
+2018-05-26 16:24:20 INFO  DataProviderTest:23 - Login Successful
+2018-05-26 16:24:20 INFO  DataProviderTest:23 - Login Successful
+2018-05-26 16:24:21 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-26 16:24:21 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-26 16:24:21 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-26 16:24:21 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-26 16:24:21 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-26 16:24:21 INFO  AnnotationsTest:58 - After Suite
+2018-05-26 16:25:55 INFO  AnnotationsTest:51 - Before Suite
+2018-05-26 16:25:55 INFO  AnnotationsTest:26 - Before Test
+2018-05-26 16:25:55 INFO  Add:12 - Started testing Add method
+2018-05-26 16:25:55 INFO  Add:16 - Finished testing Add method
+2018-05-26 16:25:55 INFO  Multiply:13 - Started testing multiply method
+2018-05-26 16:25:55 INFO  Multiply:17 - Finished testing multiply method
+2018-05-26 16:25:55 INFO  Subtract:14 - Started testing subtract method
+2018-05-26 16:25:55 INFO  Subtract:18 - Finished testing subtract method
+2018-05-26 16:25:55 INFO  AnnotationsTest:77 - Before Method
+2018-05-26 16:25:55 INFO  AnnotationsTest:14 - In Test1
+2018-05-26 16:25:55 INFO  AnnotationsTest:83 - After Method
+2018-05-26 16:25:55 INFO  AnnotationsTest:77 - Before Method
+2018-05-26 16:25:55 INFO  AnnotationsTest:20 - In Test2
+2018-05-26 16:25:55 INFO  AnnotationsTest:83 - After Method
+2018-05-26 16:25:55 INFO  AnnotationsTest:44 - After Class
+2018-05-26 16:25:55 INFO  GroupingTests:12 - In Test1 Group1
+2018-05-26 16:25:55 INFO  GroupingTests:25 - In Test1 Group2
+2018-05-26 16:25:55 INFO  GroupingTests:18 - In Test2 Group1
+2018-05-26 16:25:55 INFO  GroupingTests:31 - In Test2 Group2
+2018-05-26 16:25:55 INFO  DependentTest:20 - Login
+2018-05-26 16:25:55 INFO  DependentTest:13 - This method depends on method LOGIN
+2018-05-26 16:25:55 INFO  DependentTest:14 - Logout
+2018-05-26 16:25:55 INFO  PriorityAndSequencingTests:16 - test2 with priority 1
+2018-05-26 16:25:55 INFO  PriorityAndSequencingTests:11 - test1 with priority 8
+2018-05-26 16:25:55 INFO  AnnotationsTest:32 - After Test
+2018-05-26 16:25:55 INFO  ParameterTest:13 - Login Successful
+2018-05-26 16:25:55 INFO  DataProviderTest:23 - Login Successful
+2018-05-26 16:25:55 INFO  DataProviderTest:23 - Login Successful
+2018-05-26 16:25:55 INFO  AnnotationsTest:58 - After Suite
+2018-05-26 16:26:31 INFO  AnnotationsTest:51 - Before Suite
+2018-05-26 16:26:31 INFO  AnnotationsTest:26 - Before Test
+2018-05-26 16:26:31 INFO  Add:12 - Started testing Add method
+2018-05-26 16:26:31 INFO  Add:16 - Finished testing Add method
+2018-05-26 16:26:31 INFO  Multiply:13 - Started testing multiply method
+2018-05-26 16:26:31 INFO  Multiply:17 - Finished testing multiply method
+2018-05-26 16:26:31 INFO  Subtract:14 - Started testing subtract method
+2018-05-26 16:26:31 INFO  Subtract:18 - Finished testing subtract method
+2018-05-26 16:26:31 INFO  AnnotationsTest:77 - Before Method
+2018-05-26 16:26:31 INFO  AnnotationsTest:14 - In Test1
+2018-05-26 16:26:31 INFO  AnnotationsTest:83 - After Method
+2018-05-26 16:26:31 INFO  AnnotationsTest:77 - Before Method
+2018-05-26 16:26:31 INFO  AnnotationsTest:20 - In Test2
+2018-05-26 16:26:31 INFO  AnnotationsTest:83 - After Method
+2018-05-26 16:26:31 INFO  AnnotationsTest:44 - After Class
+2018-05-26 16:26:31 INFO  GroupingTests:12 - In Test1 Group1
+2018-05-26 16:26:31 INFO  GroupingTests:25 - In Test1 Group2
+2018-05-26 16:26:31 INFO  GroupingTests:18 - In Test2 Group1
+2018-05-26 16:26:31 INFO  GroupingTests:31 - In Test2 Group2
+2018-05-26 16:26:31 INFO  DependentTest:20 - Login
+2018-05-26 16:26:31 INFO  DependentTest:13 - This method depends on method LOGIN
+2018-05-26 16:26:31 INFO  DependentTest:14 - Logout
+2018-05-26 16:26:31 INFO  PriorityAndSequencingTests:16 - test2 with priority 1
+2018-05-26 16:26:31 INFO  PriorityAndSequencingTests:11 - test1 with priority 8
+2018-05-26 16:26:31 INFO  AnnotationsTest:32 - After Test
+2018-05-26 16:26:31 INFO  ParameterTest:13 - Login Successful
+2018-05-26 16:26:31 INFO  DataProviderTest:23 - Login Successful
+2018-05-26 16:26:31 INFO  DataProviderTest:23 - Login Successful
+2018-05-26 16:26:31 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-26 16:26:31 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-26 16:26:31 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-26 16:26:31 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-26 16:26:31 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-26 16:26:31 INFO  AnnotationsTest:58 - After Suite
+2018-05-26 16:42:34 INFO  AnnotationsTest:51 - Before Suite
+2018-05-26 16:42:34 INFO  AnnotationsTest:26 - Before Test
+2018-05-26 16:42:34 INFO  Add:12 - Started testing Add method
+2018-05-26 16:42:34 INFO  Add:16 - Finished testing Add method
+2018-05-26 16:42:34 INFO  Multiply:13 - Started testing multiply method
+2018-05-26 16:42:34 INFO  Multiply:17 - Finished testing multiply method
+2018-05-26 16:42:34 INFO  Subtract:14 - Started testing subtract method
+2018-05-26 16:42:34 INFO  Subtract:18 - Finished testing subtract method
+2018-05-26 16:42:34 INFO  AnnotationsTest:77 - Before Method
+2018-05-26 16:42:34 INFO  AnnotationsTest:14 - In Test1
+2018-05-26 16:42:34 INFO  AnnotationsTest:83 - After Method
+2018-05-26 16:42:34 INFO  AnnotationsTest:77 - Before Method
+2018-05-26 16:42:34 INFO  AnnotationsTest:20 - In Test2
+2018-05-26 16:42:34 INFO  AnnotationsTest:83 - After Method
+2018-05-26 16:42:34 INFO  AnnotationsTest:44 - After Class
+2018-05-26 16:42:34 INFO  GroupingTests:12 - In Test1 Group1
+2018-05-26 16:42:35 INFO  GroupingTests:25 - In Test1 Group2
+2018-05-26 16:42:35 INFO  GroupingTests:18 - In Test2 Group1
+2018-05-26 16:42:35 INFO  GroupingTests:31 - In Test2 Group2
+2018-05-26 16:42:35 INFO  DependentTest:20 - Login
+2018-05-26 16:42:35 INFO  DependentTest:13 - This method depends on method LOGIN
+2018-05-26 16:42:35 INFO  DependentTest:14 - Logout
+2018-05-26 16:42:35 INFO  PriorityAndSequencingTests:16 - test2 with priority 1
+2018-05-26 16:42:35 INFO  PriorityAndSequencingTests:11 - test1 with priority 8
+2018-05-26 16:42:35 INFO  AnnotationsTest:32 - After Test
+2018-05-26 16:42:35 INFO  ParameterTest:13 - Login Successful
+2018-05-26 16:42:35 INFO  DataProviderTest:23 - Login Successful
+2018-05-26 16:42:35 INFO  DataProviderTest:23 - Login Successful
+2018-05-26 16:42:35 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-26 16:42:35 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-26 16:42:35 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-26 16:42:35 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-26 16:42:35 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-26 16:42:35 INFO  AnnotationsTest:58 - After Suite

@@ -1,0 +1,53 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="CalculatorSuite" verbose="1"  parallel="tests" thread-count = "1">
+
+    <test name="Nopackage" >
+        <classes>
+            <class name="NoPackageTest" />
+            <class name="NoPackageTestToExclude"></class>
+        </classes>
+    </test>
+
+    <test name="CalculatorGroupTests">
+
+        <groups>
+            <run>
+                <include name="Group1"></include>
+                <include name="Group2"></include>
+            </run>
+
+        </groups>
+    </test>
+
+    <test name="CalculatorTest">
+        <classes>
+            <class name="testNG_Tests.withoutParameterTests.Add"></class>
+            <class name="testNG_Tests.withoutParameterTests.Multiply"></class>
+            <class name="testNG_Tests.withoutParameterTests.Subtract"></class>
+            <class name="testNG_Tests.withoutParameterTests.AnnotationsTest"></class>
+            <class name="testNG_Tests.withoutParameterTests.GroupingTests"></class>
+            <class name="testNG_Tests.withoutParameterTests.DependentTest"></class>
+            <class name="testNG_Tests.withoutParameterTests.PriorityAndSequencingTests"></class>
+
+        </classes>
+
+    </test>
+
+    <test name="ParameterisedTests">
+        <parameter name="username" value="testuser_1"/>
+        <parameter name="password" value="Test@123"/>
+        <classes>
+            <class name="testNG_Tests.parametrisedTests.ParameterTest" />
+            <class name="testNG_Tests.parametrisedTests.DataProviderTest"></class>
+            <class name="testNG_Tests.parametrisedTests.DataProviderWithExcelSheet"></class>
+        </classes>
+    </test>
+
+    <test name="RetryTests">
+        <classes>
+            <class name="testNG_Tests.retryAnalyzer.RetryTest"></class>
+        </classes>
+    </test>
+
+</suite>
