@@ -562,3 +562,37 @@
 2018-05-26 16:42:35 INFO  DataProviderWithExcelSheet:35 - Login Successful
 2018-05-26 16:42:35 INFO  DataProviderWithExcelSheet:35 - Login Successful
 2018-05-26 16:42:35 INFO  AnnotationsTest:58 - After Suite
+2018-05-28 21:30:31 INFO  AnnotationsTest:51 - Before Suite
+2018-05-28 21:30:32 INFO  AnnotationsTest:26 - Before Test
+2018-05-28 21:30:32 INFO  Add:12 - Started testing Add method
+2018-05-28 21:30:32 INFO  Add:16 - Finished testing Add method
+2018-05-28 21:30:32 INFO  Multiply:13 - Started testing multiply method
+2018-05-28 21:30:32 INFO  Multiply:17 - Finished testing multiply method
+2018-05-28 21:30:32 INFO  Subtract:14 - Started testing subtract method
+2018-05-28 21:30:32 INFO  Subtract:18 - Finished testing subtract method
+2018-05-28 21:30:32 INFO  AnnotationsTest:77 - Before Method
+2018-05-28 21:30:32 INFO  AnnotationsTest:14 - In Test1
+2018-05-28 21:30:32 INFO  AnnotationsTest:83 - After Method
+2018-05-28 21:30:32 INFO  AnnotationsTest:77 - Before Method
+2018-05-28 21:30:32 INFO  AnnotationsTest:20 - In Test2
+2018-05-28 21:30:32 INFO  AnnotationsTest:83 - After Method
+2018-05-28 21:30:32 INFO  AnnotationsTest:44 - After Class
+2018-05-28 21:30:32 INFO  GroupingTests:12 - In Test1 Group1
+2018-05-28 21:30:32 INFO  GroupingTests:25 - In Test1 Group2
+2018-05-28 21:30:32 INFO  GroupingTests:18 - In Test2 Group1
+2018-05-28 21:30:32 INFO  GroupingTests:31 - In Test2 Group2
+2018-05-28 21:30:32 INFO  DependentTest:20 - Login
+2018-05-28 21:30:32 INFO  DependentTest:13 - This method depends on method LOGIN
+2018-05-28 21:30:32 INFO  DependentTest:14 - Logout
+2018-05-28 21:30:32 INFO  PriorityAndSequencingTests:16 - test2 with priority 1
+2018-05-28 21:30:32 INFO  PriorityAndSequencingTests:11 - test1 with priority 8
+2018-05-28 21:30:32 INFO  AnnotationsTest:32 - After Test
+2018-05-28 21:30:32 INFO  ParameterTest:13 - Login Successful
+2018-05-28 21:30:32 INFO  DataProviderTest:23 - Login Successful
+2018-05-28 21:30:32 INFO  DataProviderTest:23 - Login Successful
+2018-05-28 21:30:32 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-28 21:30:32 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-28 21:30:32 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-28 21:30:32 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-28 21:30:32 INFO  DataProviderWithExcelSheet:35 - Login Successful
+2018-05-28 21:30:32 INFO  AnnotationsTest:58 - After Suite
